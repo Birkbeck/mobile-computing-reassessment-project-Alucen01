@@ -1,4 +1,8 @@
  # Angelica Lucena
+ course work - Section one ' Wireframes
+Create wireframes that will cover your app using one of several free online wireframing 
+tools' I used Figma . ( There wasn't a dropbox or a place to add this.)
+ https://www.figma.com/design/23pbHkpIhyj0Qzt7qnTDNA/Movie-APP?m=auto&t=5oJbTeBrQ0TWo7ts-1
 # Movie Tracker App
 this Android app is being developed as part of coursework focused on applying the MVVM architecture using Room, ViewModel, and Repository patterns.
 
@@ -113,4 +117,5 @@ CREATE TABLE movies (
 - **Confirmation Dialogs**: Safe delete operations
 - **Form Validation**: Prevents empty submissions
 - **Smooth Animations**: RecyclerView with DiffUtil
+
 
